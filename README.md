@@ -3,7 +3,7 @@ A README containing any special instructions for running your code (e.g., how to
 keys) as well as a brief description of how to interact with your program.
 README describing your Data Structure (graphs or trees)
 
-# REQUIRED PYTHON PACKAGES:
+## REQUIRED PYTHON PACKAGES:
 * spotipy
 * requests
 * bs4
