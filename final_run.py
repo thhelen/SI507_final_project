@@ -93,7 +93,7 @@ while True:
             image = Image.open(f"C:/Users/thhelen/Desktop/si507_lec/hw/tempo_vs_popularity.png")
             image.show()
         elif feature==5:
-            image = Image.open(f"C:/Users/thhelen/Desktop/si507_lec/hw/valences_vs_popularity.png")
+            image = Image.open(f"C:/Users/thhelen/Desktop/si507_lec/hw/valence_vs_popularity.png")
             image.show()
     print('Would you like to continue? Enter 1 if yes, 2 if no.')
     while True:
